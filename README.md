@@ -1,4 +1,4 @@
-# RankLens — Global University Rankings Analysis
+# RANKLENS — Global University Rankings Analysis
 
 ### Data-Driven Exploration of University Performance, Rankings & Global Trends
 
